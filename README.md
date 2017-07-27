@@ -1,2 +1,2 @@
-# coursera
-Intro to ML (Andrew Ng)
+# Intro to ML (Andrew Ng)
+i'm a meme now
